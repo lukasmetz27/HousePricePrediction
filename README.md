@@ -14,6 +14,6 @@
 
 * **Shape of the data:** 2919, 79
 * **Target:** Min: 34.900, Max: 755.000
-![] (/images/TargetDistribution)
 
+![](/images/TargetDistribution)
 
