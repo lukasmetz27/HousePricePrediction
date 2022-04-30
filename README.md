@@ -8,7 +8,7 @@
 
 * **Programming Language:** Python
 * **Packages:** pandas, numpy, matplotlib, seaborn, missingno, sklearn
-* **Data:** [Kaggle Dataset] (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+* **Data:** [Kaggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 # EDA
 
@@ -16,4 +16,23 @@
 * **Target:** Min: 34.900, Max: 755.000
 
 ![](/images/TargetDistribution)
+(pink: Mean, red: Median)
+
+![](/images/TargetBoxPlot)
+
+* **NaN-Values** 
+![](/images/DataFrameNaN.png)
+![](/images/PercentageNaN)
+
+* **Correlation of Features and Target:**
+![](/images/Heatmap)
+
+# Data Preparation
+## Target Scaling
+![](/images/ScalingTarget)
+
+# Results
+![](/images/Results)
+
+
 
