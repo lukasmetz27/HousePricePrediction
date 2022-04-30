@@ -15,16 +15,16 @@
 * **Shape of the data:** 2919, 79
 * **Target:** Min: 34.900, Max: 755.000
 
-![](/images/TargetDistribution)
+![](/images/TargetDistribution) </br>
 (pink: Mean, red: Median)
 
 ![](/images/TargetBoxPlot)
 
-* **NaN-Values** 
+* **NaN-Values** </br>
 ![](/images/DataFrameNaN.png)
 ![](/images/PercentageNaN)
 
-* **Correlation of Features and Target:**
+* **Correlation of Features and Target:** </br>
 ![](/images/Heatmap)
 
 # Data Preparation
@@ -32,7 +32,7 @@
 ![](/images/ScalingTarget)
 
 # Results
-![](/images/Results)
+![](/images/Results.png)
 
 
 
