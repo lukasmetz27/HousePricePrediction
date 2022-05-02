@@ -1,4 +1,4 @@
-# HousePricePrediction: Prject Overview
+# HousePricePrediction: Project Overview
 
 * Created a tool that estimates the house price to support the decision of buying a house. Is the price is too high or it is worth to buy.
 * Evaluate Linear, Lasso, Ridge and Random Forest Regression Models </br>
